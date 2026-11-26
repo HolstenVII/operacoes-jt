@@ -1,1 +1,0 @@
-{"crons":[{"path":"/api/renewal-reminders","schedule":"0 12 * * *"}]}
